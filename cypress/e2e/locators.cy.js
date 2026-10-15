@@ -30,7 +30,9 @@ describe("Locators Practice", () =>{
     // TC_Basic_05: Verify locator combine
     it('Should locate the Sign in button', () =>{
         cy.visit('https://www.qapractice.com/practice-login-form');
-        cy.get('.card-body').find('[data-testid="login-submit"]').should('be.visible').and('be.enabled');
+        cy.get('.card-body').find('[data-testid="login-submit"]')
+        .should('be.visible')
+        .and('be.enabled');
     });
 
     // TC_Basic_06: Verify the quantity of the element
