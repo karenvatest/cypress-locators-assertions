@@ -24,7 +24,7 @@ describe('Advanced locators', () =>{
     });
 
     // TC_Basic_04: Verify .first() vs. .last()
-    it('Should validate the first vs last', () =>{
+    it('Should validate the first vs last inputs', () =>{
         cy.visit('https://www.qapractice.com/practice-login-form');
         cy.get('.card-body input').first()
         .should('have.attr', 'type', 'email')
