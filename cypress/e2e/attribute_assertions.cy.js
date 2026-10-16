@@ -23,4 +23,13 @@ describe('Attribiute assertions practice', () =>{
         cy.get('[data-testid="login-submit"]').should('be.enabled').and('be.visible');
     });
 
-})
+    // TC_Bacsic_05: Verify value, atribute, is selected, and is enabled 
+    it('Should validate attributes, values, and states', () =>{
+        cy.visit('https://www.qapractice.com/practice-login-form');
+        cy.get('[data-testid="login-email"]').should('have.attr', 'type', 'email');
+        cy.get('[data-testid="login-email"]').type('user@premiumbank.com').should('have.value', 'user@premiumbank.com');
+        cy.get('[data-testid="login-remember"]').check().should('be.checked');
+        cy.get('[data-testid="login-submit"]').should('be.enabled').and('be.visible');
+    });
+
+});
