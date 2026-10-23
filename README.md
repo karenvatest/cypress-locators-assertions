@@ -1,4 +1,3 @@
-
 # 🎯 Cypress Locators & Assertions
 
 ## 📌 About the Project
@@ -9,12 +8,11 @@ The goal is to build a strong foundation in UI test automation by practicing ele
 
 ## 🎯 Objectives
 
-- Practice different strategies for locating web elements.
-- Understand how to interact with the DOM.
-- Validate element visibility, text, attributes, and states.
-- Use implicit and explicit assertions.
-- Improve test readability and reliability.
-- Apply QA testing knowledge to automated test scenarios.
+- Practice locating web elements using Cypress.
+- Validate text, attributes, and element collections.
+- Apply positive and negative assertions.
+- Write clear and reliable automated tests.
+- Combine locators and assertions to validate user flows.
 
 ### 🔎 1. Locators
 **File:** `locators.cy.js`
