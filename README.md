@@ -14,6 +14,8 @@ The goal is to build a strong foundation in UI test automation by practicing ele
 - Write clear and reliable automated tests.
 - Combine locators and assertions to validate user flows.
 
+---
+
 ### 🔎 1. Locators
 **File:** `locators.cy.js`
 
@@ -25,6 +27,8 @@ The goal is to build a strong foundation in UI test automation by practicing ele
 - CSS selectors
 - Element identification and selection
 
+---
+
 ### 🧭 2. Advanced Locators
 **File:** `advanced_locators.cy.js`
 
@@ -34,6 +38,8 @@ The goal is to build a strong foundation in UI test automation by practicing ele
 - Advanced element selection
 - Text-based locators
 - DOM traversal and element targeting
+
+---
 
 ### 📝 3. Text Assertions
 **File:** `text_assertions.cy.js`
@@ -46,6 +52,8 @@ The goal is to build a strong foundation in UI test automation by practicing ele
 - Text validation
 - Expected versus actual results
 
+---
+
 ### 🏷️ 4. Attribute Assertions
 **File:** `attribute_assertions.cy.js`
 
@@ -55,6 +63,8 @@ The goal is to build a strong foundation in UI test automation by practicing ele
 - `have.attr`
 - Attribute values
 - Element property validation
+
+---
 
 ### 📋 5. Collection Assertions
 **File:** `collection_assertions.cy.js`
@@ -66,6 +76,8 @@ The goal is to build a strong foundation in UI test automation by practicing ele
 - Element counts
 - Collection-level assertions
 
+---
+
 ### 🚫 6. Negative Assertions
 **File:** `negative_Assertions.cy.js`
 
@@ -75,6 +87,8 @@ The goal is to build a strong foundation in UI test automation by practicing ele
 - `not.exist`
 - `not.be.visible`
 - Negative validation scenarios
+
+---
 
 ### 🧪 7. Mini Challenge
 **File:** `mini_challenge.cy.js`
@@ -86,6 +100,8 @@ The goal is to build a strong foundation in UI test automation by practicing ele
 - Element selection
 - Assertions
 - Expected behavior validation
+
+--- 
 
 ## 🛠️ Technologies
 
@@ -112,7 +128,8 @@ The goal is to build a strong foundation in UI test automation by practicing ele
 
 ## 📌 Project Status
 
-🟠 **In Progress** — Part of my learning journey from Manual QA to QA Automation.
+🟠 **In Progress** 
+— Part of my learning journey from Manual QA to QA Automation.
 
 ## 👩‍💻 Author
 
@@ -120,4 +137,4 @@ The goal is to build a strong foundation in UI test automation by practicing ele
 
 QA Manual Engineer | QA Automation in Progress
 
-**Learning by building, testing, and automating.**
+**⭐ Learning by building, testing, and automating.**
