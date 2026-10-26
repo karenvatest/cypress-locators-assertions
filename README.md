@@ -112,7 +112,7 @@ The goal is to build a strong foundation in UI test automation by practicing ele
 
 ## 📌 Project Status
 
-**In Progress** — Part of my learning journey from Manual QA to QA Automation.
+🟠 **In Progress** — Part of my learning journey from Manual QA to QA Automation.
 
 ## 👩‍💻 Author
 
@@ -120,4 +120,4 @@ The goal is to build a strong foundation in UI test automation by practicing ele
 
 QA Manual Engineer | QA Automation in Progress
 
-*Learning by building, testing, and automating.*
+**Learning by building, testing, and automating.**
